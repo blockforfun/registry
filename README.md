@@ -1,2 +1,1 @@
-# registry
-registry.blockfor.fun
+[BlockFor.fun](https://blockfor.fun) public registry. This is where we host [the blockfor.fun root database](root.db) for the [BlockFor.fun](https://github.com/blockforfun/) apps. All entries are built from the [public git repository](https://github.com/blockforfun/registry.git) that you can find on the [repository GitHub page](https://github.com/blockforfun/registry/) where you can also find [this page](https://github.com/blockforfun/registry/blob/master/README.md).
